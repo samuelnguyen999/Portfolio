@@ -1,8 +1,6 @@
 # My GitHub Projects
-Dev portfolio site showing repos
+Development portfolio site showing repositories
 
 ## Website
-https://samuelnguyen999.github.io/portfolio/
-
-
+[![View site - GH Pages](https://img.shields.io/badge/View_site-GH_Pages-blue?style=for-the-badge)](https://samuelnguyen999.github.io/portfolio/)
 
