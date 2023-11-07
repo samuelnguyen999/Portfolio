@@ -1,4 +1,9 @@
 body {
     margin: 0;
-    text-align: center;
+}
+
+p {
+    color: navy;
+    text-indent: 30px;
+    text-transform: uppercase;
 }
