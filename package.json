@@ -1,0 +1,22 @@
+{
+    "name": "portfolio",
+    "version": "1.0.0",
+    "description": "Development portfolio site showing repositories",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/samuelnguyen999/portfolio.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/samuelnguyen999/portfolio/issues"
+    },
+    "homepage": "https://github.com/samuelnguyen999/portfolio#readme",
+    "dependencies": {
+        "progressbar.js": "^1.1.1"
+    }
+}

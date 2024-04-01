@@ -1,6 +1,7 @@
 body {
     /* margin: 0;
     */
+    font-family: 'Lato';
     text-align: center;
 }
 
@@ -12,4 +13,22 @@ h1 {
 p {
     color: navy;
     text-align: left;
+}
+
+#line-container {
+    width: 200px;
+    height: 40px;
+    margin: 50px auto;
+}
+
+#circle-container {
+    margin: 20px auto;
+    width: 200px;
+    height: 200px;
+}
+
+#svg-container {
+    margin: 20px auto;
+    width: 200px;
+    height: 200px;
 }
